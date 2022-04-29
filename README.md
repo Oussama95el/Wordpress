@@ -12,7 +12,7 @@ Note: If you are not comfortable with renaming files, step 3 is optional and you
     *If you want to integrate WordPress into the root of your domain (e.g. http://example.com/), move or upload all contents of the unzipped WordPressdirectory (excluding the WordPress directory itself) into the root directory of your web server.<br>
     *If you want to have your WordPress installation in its own subdirectory on your website (e.g. http://example.com/blog/), create the blog directory on your             server and upload the contents of the unzipped WordPress package to the directory via FTP.<br>
     *Note: If your FTP client has an option to convert file names to lower case, make sure it’s disabled.<br>
-5/Run the WordPress installation script by accessing the URL in a web browser. This should be the URL where you uploaded the WordPress files.
+5/Run the WordPress installation script by accessing the URL in a web browser. This should be the URL where you uploaded the WordPress files.<br>
             *If you installed WordPress in the root directory, you should visit: http://example.com/<br>
-           <br> *If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/<br>
+            *If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/<br>
            <h3> That’s it! WordPress should now be installed.</h3><br>
