@@ -14,5 +14,5 @@ Note: If you are not comfortable with renaming files, step 3 is optional and you
     *Note: If your FTP client has an option to convert file names to lower case, make sure it’s disabled.<br>
 5/Run the WordPress installation script by accessing the URL in a web browser. This should be the URL where you uploaded the WordPress files.
             *If you installed WordPress in the root directory, you should visit: http://example.com/<br>
-            *If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/<br>
+           <br> *If you installed WordPress in its own subdirectory called blog, for example, you should visit: http://example.com/blog/<br>
            <h3> That’s it! WordPress should now be installed.</h3><br>
